@@ -19,20 +19,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=BLACK"/></a>&nbsp <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
-
-<p>&nbsp</p>
-<div style="float: left; width: 50%">
-<p>
-<h2 id="blockchain-developer-">&nbsp&nbsp&nbsp&nbsp&nbspBlockchain Developer.</h2>
-<p><strong>&nbsp&nbsp&nbsp변화의 시대에 맞는 인재</strong> 🙋 가 되기 위해&nbsp&nbsp&nbsp&nbsp<br>&nbsp&nbsp&nbsp🔥 <strong>배우는 것</strong>을 소중히 하고<br><strong>&nbsp&nbsp&nbsp아이디어</strong>💡 떠올리기를 좋아하는<br><strong>&nbsp&nbsp&nbsp블록체인</strong> 🔗<strong>개발자 박성래</strong>입니다.</p>
-<p>
-</div>
-<div style="float: left; width: 50%">
+<br>
+<p align="center">
 <a href="https://github.com/parksungrae/parksungrae">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parksungrae&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sungrae's GitHub Stats" />
 </a>
-</div>
-
+</p>
 
 
 
