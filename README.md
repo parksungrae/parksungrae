@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=BLACK"/></a>&nbsp <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
-
+<p>&nbsp</p>
 <div style="float: left; width: 50%">
 <p>
 <h2 id="blockchain-developer-">&nbsp&nbsp&nbsp&nbsp&nbspBlockchain Developer.</h2>
