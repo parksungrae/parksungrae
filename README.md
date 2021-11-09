@@ -4,14 +4,14 @@
 
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/C-E6E6FA?style=flat-square&logo=c&logoColor=BLACK"/></a>&nbsp <img src="https://img.shields.io/badge/Solidity-191970?style=flat-square&logo=solidity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/C-E6E6FA?style=flat-square&logo=c&logoColor=BLACK"/></a>&nbsp <img src="https://img.shields.io/badge/Solidity-191970?style=flat-square&logo=solidity&logoColor=white"/></a>
 </p>
 
 
 <p align="center">I've used more than once.<p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Linux-D94F00?style=flat-square&logo=linux&logoColor=BLACK"/></a>&nbsp <img src="https://img.shields.io/badge/Solidity-191970?style=flat-square&logo=solidity&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/raspberry_pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Linux-D94F00?style=flat-square&logo=linux&logoColor=BLACK"/></a>&nbsp <img src="https://img.shields.io/badge/Solidity-191970?style=flat-square&logo=solidity&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/raspberry_pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
 
 <p align="center">else...<p>
